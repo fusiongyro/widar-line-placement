@@ -12,7 +12,8 @@ The input to the program is a text file formatted like so:
 The output of the program will look like this:
 
     Baseband A0/C0: centered at 35.95 GHz
-      1. 64 MHz at 35.747 GHz with 4 blbps
-      2. etc.
+      0. 128 MHz at 36.142 GHz with 17 Bl.BPs
+      1. 16 MHz at 35.837287226 GHz with 1 Bl.BP and 4x recirculation
+      2. 64 MHz at 35.747294038 GHz with 5 Bl.BPs and 2x recirculation
 
-No code present yet.
+No code present yet, just a start on the parser.
